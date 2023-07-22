@@ -1,0 +1,120 @@
+{
+	"id": -1,
+	"name": "Marten",
+	"description": "A weasel-like mammal in the genus Martes within the subfamily Guloninae, in the family Mustelidae. They have bushy tails and large paws with partially retractile claws. The fur varies from yellowish to dark brown, depending on the species; it is valued by animal trappers for the fur trade. Martens are slender, agile animals, adapted to living in the taiga, which inhabit coniferous and northern deciduous forests across the Northern Hemisphere.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Marten#Fossils"
+		]
+	},
+	"path": {
+		"104-107": [
+			[
+				345,
+				-137
+			],
+			[
+				347,
+				-139
+			],
+			[
+				349,
+				-137
+			],
+			[
+				353,
+				-137
+			],
+			[
+				355,
+				-138
+			],
+			[
+				356,
+				-139
+			],
+			[
+				357,
+				-136
+			],
+			[
+				356,
+				-135
+			],
+			[
+				357,
+				-134
+			],
+			[
+				356,
+				-132
+			],
+			[
+				354,
+				-131
+			],
+			[
+				357,
+				-128
+			],
+			[
+				358,
+				-126
+			],
+			[
+				356,
+				-123
+			],
+			[
+				356,
+				-122
+			],
+			[
+				356,
+				-120
+			],
+			[
+				346,
+				-120
+			],
+			[
+				347,
+				-122
+			],
+			[
+				347,
+				-124
+			],
+			[
+				345,
+				-126
+			],
+			[
+				346,
+				-129
+			],
+			[
+				348,
+				-131
+			],
+			[
+				345,
+				-133
+			],
+			[
+				346,
+				-135
+			],
+			[
+				345,
+				-137
+			]
+		]
+	},
+	"center": {
+		"104-107": [
+			352,
+			-126
+		]
+	}
+}
